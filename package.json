@@ -11,7 +11,7 @@
     "index.js"
   ],
   "dependencies": {
-    "istanbul": "0.x.x"
+    "istanbul": "gotwarlost/istanbul.git#source-map"
   },
   "peerDependencies": {
     "webpack": "1.x.x"
